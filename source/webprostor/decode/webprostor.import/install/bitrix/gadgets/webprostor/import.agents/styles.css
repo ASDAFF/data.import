@@ -1,0 +1,85 @@
+.bx-gadgets-import-agents{position:relative;}
+.bx-gadgets-import-agents .bx-gadgets-title {color: #fff !important;text-shadow: 0 -1px 0 #235483;}
+
+.bx-gadgets-import-agents:hover .bx-gadgets-color-config-close {background-position:-1px -589px;}
+.bx-gadgets-import-agents:hover .bx-gadgets-color-config-close:hover {background-position:-1px -606px;}
+
+.bx-gadgets-colourful.bx-gadgets-import-agents {
+	background:#159fdb;
+	border: 0;
+	overflow:hidden;
+}
+
+.bx-gadgets-colourful.bx-gadgets-import-agents-alert{
+	background:#e8eb16;
+}
+
+.bx-gadgets-colourful.bx-gadgets-import-agents-alert .bx-gadgets-title{
+	color: #111 !important;
+	text-shadow: 0 1px 0 #fff;
+}
+
+.bx-gadgets-colourful.bx-gadgets-import-agents-alert .bx-gadget-desc{
+	color: #111 !important;
+}
+
+.bx-gadgets-colourful.bx-gadgets-import-agents .bx-gadgets-content {
+	background:none;
+	box-shadow:none;
+	height:138px;
+	-webkit-box-shadow:none;
+	margin:0 0 0 11px!important;
+	padding:0 11px 0 0;
+	position: relative;
+}
+
+.bx-gadgets-content-layout-import-agents {
+    display: inline-block;
+    padding: 15px 0 15px;
+    vertical-align: top;
+}
+
+.bx-gadgets-import-agents .bx-gadgets-side {
+	background:url("./images/stitch3.png") repeat-y 0 0;
+}
+
+.bx-gadgets-import-agents .bx-gadget-shield {
+	background:url("./images/gadgets-import-agents-sprite.png") no-repeat 0 0;
+	float:right;
+	margin:33px 22px 0 0;
+	height: 74px;
+	width: 73px;
+}
+
+.bx-gadgets-import-agents-alert .bx-gadget-shield {
+	background-position: 0 -100px;
+}
+
+.bx-gadgets-import-agents .bx-gadget-button {
+	background:#222;
+	border-radius:4px;
+}
+
+.bx-gadgets-import-agents .bx-gadget-button:hover {
+	background:#444;
+}
+
+.bx-gadgets-import-agents .bx-gadget-button-lamp {
+	background:url("./images/gadgets-import-agents-sprite.png") no-repeat center -210px;
+}
+
+.bx-gadgets-import-agents-alert .bx-gadget-button {
+	background:#ED2626;
+}
+
+.bx-gadgets-import-agents-alert .bx-gadget-button:hover {
+	background:#FF5245;
+}
+
+.bx-gadgets-import-agents-alert .bx-gadget-button-lamp {
+	background-position: center -251px;
+}
+
+.bx-gadgets-import-agents-alert div.bx-gadget-button-text {
+	color: #fff;
+}
