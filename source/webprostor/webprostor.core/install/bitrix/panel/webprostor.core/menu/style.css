@@ -1,0 +1,2 @@
+#global_menu_global_menu_webprostor .adm-main-menu-item-icon{height:48px;background:rgba(0, 0, 0, 0) url("images/global.png") no-repeat scroll 21px 12px;opacity:1;}
+#global_menu_global_menu_webprostor.adm-main-menu-item-active .adm-main-menu-item-icon, #global_menu_global_menu_webprostor:hover .adm-main-menu-item-icon{background:rgba(0, 0, 0, 0) url("images/global_active.png") no-repeat scroll 21px 12px;}

@@ -1,0 +1,34 @@
+.adm-main-menu-item.adm-acrit .adm-main-menu-item-icon {
+    background: url("images/acrit/acrit.png") no-repeat 17px 6px;
+    height: 45px;
+    position: relative;
+    z-index: 2;
+}
+
+.adm-detail-content .adm-list-table-cell a:visited { color: #1c53a2; }
+.adm-detail-content .adm-list-table-cell .adm-btn:visited { color: #3f4b54; }
+.adm-detail-content .adm-list-table-cell .adm-btn.adm-btn-save:visited { color: #fff; }
+
+.adm-detail-content .adm-detail-content-cell-l { vertical-align: top; padding-top: 12px; }
+
+.adm-detail-content .field-params { margin-top: 12px; }
+.adm-detail-content .field-params .field-params-item { margin-bottom: 3px; }
+.adm-detail-content .field-params-link { margin-top: 10px; margin-bottom: 10px; }
+.adm-detail-content .field-params-link a { text-decoration: none; border-bottom: 1px dashed; }
+.adm-detail-content .field-params .field-params-item .multiple .values .value-item { margin-bottom: 5px; }
+.adm-detail-content .field-params .field-params-item .multiple .add-block { margin-left: 5px; margin-bottom: 10px; }
+.adm-detail-content .field-params .field-params-item .multiple .del,
+.adm-detail-content .field-params .field-params-item .multiple .add { text-decoration: none; border-bottom: 1px dashed; }
+
+.adm-detail-content .start-import-result { margin-top: 10px; }
+
+.adm-detail-content .start-import-errors { width: 100%; height: 150px; margin-top: 10px; }
+
+.adm-detail-content .acrit-imp-agents-servtime { margin-top: 10px; margin-left: 15px; }
+
+.adm-detail-content .adm-detail-content-table .acrit-import-bgr-lightred { background-color: #fbd6b4; }
+.adm-detail-content .adm-detail-content-table .acrit-import-bgr-lightred td:last-child { padding: 10px 10px 10px 5px; }
+
+.adm-info-message-center {margin:0px auto; display:flex; flex-direction: column; align-items: center}
+#tabControlAcritImportProfileEdit_layout .adm-detail-iblock-types {width:300px;}
+.fields-add-params-s {margin-top: 5px;margin-left: 10px;}

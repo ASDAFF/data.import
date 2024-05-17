@@ -1,0 +1,29 @@
+<?
+$MESS["ACRIT_IMPORT_KOMMERCESKAAINFORMAC"] = "КоммерческаяИнформация_ПакетПредложений_Предложения";
+$MESS["ACRIT_IMPORT_KOMMERCESKAAINFORMAC1"] = "КоммерческаяИнформация_ПакетПредложений_Предложения_Предложение";
+$MESS["ACRIT_IMPORT_KOMMERCESKAAINFORMAC2"] = "КоммерческаяИнформация_ПакетПредложений_Предложения_Предложение_ЗначенияСвойств";
+$MESS["ACRIT_IMPORT_KOMMERCESKAAINFORMAC3"] = "КоммерческаяИнформация_ПакетПредложений_Предложения_Предложение_ЗначенияСвойств_ЗначенияСвойства";
+$MESS["ACRIT_IMPORT_ZNACENIASVOYSTVA"] = "ЗначенияСвойства";
+$MESS["ACRIT_IMPORT_ID"] = "Ид";
+$MESS["ACRIT_IMPORT_ZNACENIE"] = "Значение";
+$MESS["ACRIT_IMPORT_KOMMERCESKAAINFORMAC4"] = "КоммерческаяИнформация_ПакетПредложений_Предложения_Предложение_Цены";
+$MESS["ACRIT_IMPORT_KOMMERCESKAAINFORMAC5"] = "КоммерческаяИнформация_ПакетПредложений_Предложения_Предложение_Цены_Цена";
+$MESS["ACRIT_IMPORT_CENA"] = "Цена";
+$MESS["ACRIT_IMPORT_IDTIPACENY"] = "ИдТипаЦены";
+$MESS["ACRIT_IMPORT_CENAZAEDINICU"] = "ЦенаЗаЕдиницу";
+$MESS["ACRIT_IMPORT_KOMMERCESKAAINFORMAC6"] = "КоммерческаяИнформация_Классификатор_Свойства";
+$MESS["ACRIT_IMPORT_KOMMERCESKAAINFORMAC7"] = "КоммерческаяИнформация_Классификатор_Свойства_Свойство";
+$MESS["ACRIT_IMPORT_KOMMERCESKAAINFORMAC8"] = "КоммерческаяИнформация_Классификатор_Свойства_Свойство_Ид";
+$MESS["ACRIT_IMPORT_KOMMERCESKAAINFORMAC9"] = "КоммерческаяИнформация_Классификатор_Свойства_Свойство_Наименование";
+$MESS["ACRIT_IMPORT_KOMMERCESKAAINFORMAC10"] = "КоммерческаяИнформация_ПакетПредложений_ТипыЦен";
+$MESS["ACRIT_IMPORT_KOMMERCESKAAINFORMAC11"] = "КоммерческаяИнформация_ПакетПредложений_ТипыЦен_ТипЦены";
+$MESS["ACRIT_IMPORT_KOMMERCESKAAINFORMAC12"] = "КоммерческаяИнформация_ПакетПредложений_ТипыЦен_ТипЦены_Ид";
+$MESS["ACRIT_IMPORT_KOMMERCESKAAINFORMAC13"] = "КоммерческаяИнформация_ПакетПредложений_ТипыЦен_ТипЦены_Наименование";
+$MESS["ACRIT_IMPORT_PREDLOJENIA"] = "Предложение";
+$MESS["ACRIT_IMPORT_NAIMENOVANIE"] = "Наименование";
+$MESS["ACRIT_IMPORT_BITRIKSTEGI"] = "БитриксТеги";
+$MESS["ACRIT_IMPORT_SVOYSTVA"] = "Свойства";
+$MESS["ACRIT_IMPORT_TIPYCEN"] = "ТипыЦен";
+$MESS["ACRIT_IMPORT_GRUPPY_ID"] = "Группы_Ид";
+$MESS["ACRIT_IMPORT_KARTINKA"] = "Картинка";
+?>

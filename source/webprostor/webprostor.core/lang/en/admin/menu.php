@@ -1,0 +1,4 @@
+<?
+$MESS["WEBPROSTOR_CORE_GLOBAL_WEBPROSTOR_MENU_TEXT"] = 'WebProstor';
+$MESS["WEBPROSTOR_CORE_SUPPORT_MENU_TEXT"] = 'Solution technical support';
+?>

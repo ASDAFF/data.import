@@ -1,0 +1,11 @@
+.select2-container
+{
+	min-width: 200px;
+	max-width: 300px;
+}
+.select2-container.select2-container--default,
+.select2-container.select2-container--default .select2-search.select2-search--inline,
+.select2-container.select2-container--default .select2-search.select2-search--inline .select2-search__field
+{
+	width: 100% !important;
+}

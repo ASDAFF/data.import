@@ -1,0 +1,13 @@
+#table_CONNECTIONS tbody tr
+{
+	cursor: pointer;
+}
+#table_CONNECTIONS tbody tr.checked td
+{
+	background: #DDE5E7 !important;
+}
+
+#table_CONNECTIONS {position: relative; width: 100%;}
+#table_CONNECTIONS tr.heading td {position: sticky; top: 0; z-index: 45;}
+#table_CONNECTIONS tr.data-row td:nth-child(2) {position: sticky; left: 0; z-index: 1; border-right: 1px solid #d0d7d8 !important;}
+#table_CONNECTIONS tr.data-row td:nth-child(1), #table_CONNECTIONS tr.data-row td:nth-child(2) {background-color: #e3ebee;}

@@ -1,0 +1,7 @@
+body
+{
+	line-height: normal;
+}
+*, ::after, ::before {
+	box-sizing: unset;
+}
